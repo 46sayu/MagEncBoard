@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2019-05-15T20:48:43Z",
+        "GenerationSoftware": {
+            "Application": "EAGLE",
+            "Vendor": "Autodesk",
+            "Version": "9.4.0"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.67,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "MagEnc"
+        },
+        "Owner": "Aki Nakanishi <thirteen.friday0@gmail.com>",
+        "Size": {
+            "X": 25.4,
+            "Y": 30.48
+        }
+    }
+}
